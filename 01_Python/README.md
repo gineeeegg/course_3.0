@@ -7,3 +7,5 @@ Course github for Python
 ### Part 3 Pandas
 ### Part 4 Data Visualization
 ### Part 5 Analysis practice case
+
+01_Python/numpy_excersise.ipynb
